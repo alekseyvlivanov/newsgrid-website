@@ -1,6 +1,6 @@
 # Netlify redirects
 
-https://determined-leakey-057c09.netlify.com/* https://newsgrid.chessiah.xyz/:splat 301!
-http://determined-leakey-057c09.netlify.com/* https://newsgrid.chessiah.xyz/:splat 301!
+https://newsgrid-website-chessiah.netlify.app/* https://newsgrid-website.chessiah.com/:splat 301!
+http://newsgrid-website-chessiah.netlify.app/* https://newsgrid-website.chessiah.com/:splat 301!
 
-http://newsgrid.chessiah.xyz/* https://newsgrid.chessiah.xyz/:splat 301!
+http://newsgrid-website.chessiah.com/* https://newsgrid-website.chessiah.com/:splat 301!
