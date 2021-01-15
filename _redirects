@@ -1,6 +1,0 @@
-# Netlify redirects
-
-https://newsgrid-website-chessiah.netlify.app/* https://newsgrid-website.chessiah.com/:splat 301!
-http://newsgrid-website-chessiah.netlify.app/* https://newsgrid-website.chessiah.com/:splat 301!
-
-http://newsgrid-website.chessiah.com/* https://newsgrid-website.chessiah.com/:splat 301!
